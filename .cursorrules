@@ -1,0 +1,4 @@
+Follow AGENT_GUIDE.md. It is the architecture contract for this app.
+Follow AGENTS.md before using Expo, EAS, or React Native APIs.
+Do not call fetch, axios, or a backend SDK from screens, components, or hooks.
+Do not put feature logic in src/app. Route files only render a feature screen.
